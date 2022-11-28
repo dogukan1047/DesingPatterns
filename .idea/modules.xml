@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/DoubleCheckedLockingSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/DoubleCheckedLockingSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/LazySingleton/LazySingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/LazySingleton/LazySingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/ThreadSafeLazySingleton/ThreadSafeLazySingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/ThreadSafeLazySingleton/ThreadSafeLazySingleton.iml" />
+    </modules>
+  </component>
+</project>
