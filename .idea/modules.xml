@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/DoubleCheckedLockingSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/DoubleCheckedLockingSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/LazySingleton/LazySingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/LazySingleton/LazySingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" />

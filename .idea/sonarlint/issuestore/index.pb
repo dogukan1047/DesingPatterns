@@ -1,0 +1,9 @@
+
+e
+5CreationalPatterns/Singleton/Singleton1/src/Main.java,a\3\a330b0d9962dbf5aabf5a8167f40127ff578c512
+u
+ECreationalPatterns/Singleton/LazySingleton/src/LazySingletonMain.java,0\4\049c18cb14dac0b90ee8a6a259a7d0e1ff28a5a6
+}
+MCreationalPatterns/Singleton/LazySingleton/src/ThreadliLazySingletonMain.java,9\f\9f25c3ba9b4ca730a1e20c9b27eb7686b0b9dac5
+q
+ACreationalPatterns/Singleton/LazySingleton/src/LazySingleton.java,d\9\d966fe23cb516caf2a3735dc12eef909a5de6596
