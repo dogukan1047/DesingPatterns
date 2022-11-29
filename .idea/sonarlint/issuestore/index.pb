@@ -7,3 +7,15 @@ ECreationalPatterns/Singleton/LazySingleton/src/LazySingletonMain.java,0\4\049c
 MCreationalPatterns/Singleton/LazySingleton/src/ThreadliLazySingletonMain.java,9\f\9f25c3ba9b4ca730a1e20c9b27eb7686b0b9dac5
 q
 ACreationalPatterns/Singleton/LazySingleton/src/LazySingleton.java,d\9\d966fe23cb516caf2a3735dc12eef909a5de6596
+Ž
+^CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/src/DoubleCheckedSingletonMain.java,6\6\66f42aa0cb54e9a31545ed453617a07bcc388243
+j
+:CreationalPatterns/Singleton/Singleton1/src/SngClass1.java,8\2\82b737c72dcdabfaee90130cc256dca0fe8e8223
+
+OCreationalPatterns/Singleton/EnummerationSingleton/src/EnumSingletonClient.java,b\0\b06b5620c68b471c3721f871b08e420585817d22
+y
+ICreationalPatterns/Singleton/EnummerationSingleton/src/EnumSingleton.java,8\e\8e93b9c1c63a0821feac70ef6b608271f6f4baa6
+b
+2CreationalPatterns/FactoryMethod/FactoryMethod.iml,2\4\24a6ef0f071f4e403b136f60b204dd6e05440a38
+’
+bCreationalPatterns/Singleton/DoubleCheckedLockingSingleton/src/DoubleCheckedLockingSingleton1.java,c\3\c3b9e25f7acf010c750af4bb77d7d0d7d7c8f57b
