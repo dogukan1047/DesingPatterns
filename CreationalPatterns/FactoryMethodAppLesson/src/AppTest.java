@@ -1,6 +1,6 @@
 import java.util.HashSet;
 import java.util.Set;
-
+//!!! //!!! It solves the problem, but we will have to write multiple ifs in the future.
 public class AppTest {
     public static void main(String[] args) {
 
