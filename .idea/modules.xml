@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatternsactory/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/CreationalPatternsactory/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design1/Design1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design1/Design1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design2/Design2.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design2/Design2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/DoubleCheckedLockingSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/DoubleCheckedLockingSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" />

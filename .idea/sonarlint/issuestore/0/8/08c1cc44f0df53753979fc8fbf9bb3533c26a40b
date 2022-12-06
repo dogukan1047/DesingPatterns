@@ -1,0 +1,11 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âï®‚
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÛ·»ÿÿÿÿÿ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÈÌáýÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í®•c
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®È‡³úÿÿÿÿ
+O
+java:S1854":Remove this useless assignment to local variable "Prices".(í®•c
+@
+java:S1481"+Remove this unused "Prices" local variable.(í®•c
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’“áÙ
