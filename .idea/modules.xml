@@ -4,12 +4,19 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CreationalPatternsactory/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/CreationalPatternsactory/AbstractFactory/AbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/Builder.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer1/BuilderComputer1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer1/BuilderComputer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer2/BuilderComputer2.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer2/BuilderComputer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design1/Design1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design1/Design1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design2/Design2.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design2/Design2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/DoubleCheckedLockingSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/DoubleCheckedLockingSingleton/DoubleCheckedLockingSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Facade/Facade.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Facade/FacadeLesson/FacadeLesson.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Facade/FacadeLesson/FacadeLesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod1/FactoryMethod1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod1/FactoryMethod1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod2/FactoryMethod2.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod2/FactoryMethod2.iml" />
@@ -18,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/LazySingleton/LazySingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/LazySingleton/LazySingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" filepath="$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/ThreadSafeLazySingleton/ThreadSafeLazySingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/ThreadSafeLazySingleton/ThreadSafeLazySingleton.iml" />
     </modules>
   </component>
