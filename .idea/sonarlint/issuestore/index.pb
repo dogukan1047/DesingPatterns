@@ -137,3 +137,17 @@ t
 DCreationalPatterns/Builder/BuilderComputer1/src/ComputerBuilder.java,2\4\2471e1d486ac9dc49740ad25031afb9865936c63
 q
 ACreationalPatterns/Builder/BuilderComputer1/src/BuilderMain1.java,c\6\c65f15b4292f46e195a14fcc97c5fcdd8f234988
+m
+=StructuralPatterns/Adapter/AdapterLesson/src/MediaPlayer.java,c\2\c28b288a6157a7dd2789b8dac620744aebab4f94
+k
+;StructuralPatterns/Adapter/AdapterLesson/src/Mp4Player.java,b\9\b9326c8d98cf79ef011053eb80abb2634986f248
+k
+;StructuralPatterns/Adapter/AdapterLesson/src/VlcPlayer.java,5\d\5d74a77d311d041254096aed1a472418d42290f6
+u
+EStructuralPatterns/Adapter/AdapterLesson/src/AdvancedMediaPlayer.java,c\7\c7a8085cde78355bfe89afc3d87945b3051ea765
+n
+>StructuralPatterns/Adapter/AdapterLesson/src/MediaAdapter.java,3\e\3e4f454a7827d00497df9e110d21b8123733704c
+m
+=StructuralPatterns/Adapter/AdapterLesson/src/AudioPlayer.java,6\c\6c835f4a6a2d1ffcae7d550d1b66bfd66b1ce62c
+t
+DStructuralPatterns/Adapter/AdapterLesson/src/AdapterPatternMain.java,d\a\da306140454da6a4b24c0f3bab6447972f1bd88e

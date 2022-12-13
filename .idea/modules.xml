@@ -6,9 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Bridge/BridgePatternVersion1/BridgePatternVersion1.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Bridge/BridgePatternVersion1/BridgePatternVersion1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/Builder.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer1/BuilderComputer1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer1/BuilderComputer1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer2/BuilderComputer2.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer2/BuilderComputer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Composite/Composite.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Composite/CompositePatternVersion1/CompositePatternVersion1.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Composite/CompositePatternVersion1/CompositePatternVersion1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design1/Design1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design1/Design1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design2/Design2.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/Design2/Design2.iml" />
