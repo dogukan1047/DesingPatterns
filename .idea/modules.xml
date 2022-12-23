@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/BehaviorPatterns.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/BehaviorPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Bridge/BridgePatternLesson/BridgePatternLesson.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Bridge/BridgePatternLesson/BridgePatternLesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Bridge/BridgePatternVersion1/BridgePatternVersion1.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Bridge/BridgePatternVersion1/BridgePatternVersion1.iml" />
@@ -29,6 +30,9 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethodAppLesson/FactoryMethodAppLesson.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethodAppLesson/FactoryMethodAppLesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork/HomeWork.iml" filepath="$PROJECT_DIR$/HomeWork/HomeWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/LazySingleton/LazySingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/LazySingleton/LazySingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/Observer/Observer.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/Observer/ObserverDesign1/ObserverDesign1.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/Observer/ObserverDesign1/ObserverDesign1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/Observer/ObserverDesign2/ObserverDesign2.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/Observer/ObserverDesign2/ObserverDesign2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" filepath="$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" />
