@@ -171,3 +171,27 @@ l
 <StructuralPatterns/Bridge/BridgePatternLesson/src/MacUI.java,f\4\f4707ceeee739804d6809d4b8247b562086b0070
 k
 ;StructuralPatterns/Bridge/BridgePatternLesson/src/Main.java,b\a\ba1cdf96927cd499135340fdcdcbb4677738bade
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+g
+7BehaviorPatterns/Observer/ObserverDesign1/src/Main.java,6\7\67e5f54cd8312424d6c87a24858f5140d6acde6e
+p
+@BehaviorPatterns/Observer/ObserverDesign1/src/OctalObserver.java,7\9\79916a73177ebd2e36ece84207c3ba7434ce850b
+o
+?BehaviorPatterns/Observer/ObserverDesign1/src/HexaObserver.java,1\c\1c8c200d4d681d50ef3659ca03e1f67f3fe4728d
+u
+EBehaviorPatterns/Observer/ObserverDesign2/src/AbstractSubscriber.java,9\5\9591b501367d6bb483ba23d894549319ec23b7a1
+n
+>BehaviorPatterns/Observer/ObserverDesign2/src/FourFourTwo.java,c\9\c919075b119022d3d1b6163acf87d98db8698bb9
+w
+GBehaviorPatterns/Observer/ObserverDesign2/src/IndividualSubscriber.java,c\b\cb38fdf77f7211b10974c45e3e77e700134ad523
+l
+<BehaviorPatterns/Observer/ObserverDesign2/src/Publisher.java,2\5\25cbec251d9672d49eb8c0834dc93ea4cd3929ea
+m
+=BehaviorPatterns/Observer/ObserverDesign2/src/Subscriber.java,7\5\7584e44ff94d36e1f74c198b8457fe0e479cf05f
+z
+JBehaviorPatterns/Observer/ObserverDesign2/src/InstitutionalSubscriber.java,9\0\90eb4ae865bef629edbe0ab4fab0302f2da3ed3b
+k
+;BehaviorPatterns/Observer/ObserverDesign2/src/Newsweek.java,0\4\0403708d16e7ab2ecd9de58a6027697cd7395f17
+r
+BBehaviorPatterns/Observer/ObserverDesign2/src/ObserverDesign2.java,0\4\048ec2941eabdd5597d6d14e5aaa5a855c3666bb
