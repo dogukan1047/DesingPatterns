@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/StrategyPatterns/StrategyPatterns.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/StrategyPatterns/StrategyPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" filepath="$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/ThreadSafeLazySingleton/ThreadSafeLazySingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/ThreadSafeLazySingleton/ThreadSafeLazySingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/VisitorPattern/VisitorPattern.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/VisitorPattern/VisitorPattern.iml" />
     </modules>
   </component>
 </project>
