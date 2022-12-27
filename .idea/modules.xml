@@ -13,7 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/Builder.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer1/BuilderComputer1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer1/BuilderComputer1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer2/BuilderComputer2.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/BuilderComputer2/BuilderComputer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/BuilderEducative/BuilderEducative.iml" filepath="$PROJECT_DIR$/HomeWork/BuilderEducative/BuilderEducative.iml" />
       <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/CommandPattern/CommandPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Composite/Composite.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Composite/CompositePatternVersion1/CompositePatternVersion1.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Composite/CompositePatternVersion1/CompositePatternVersion1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" />
