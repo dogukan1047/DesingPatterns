@@ -1,3 +1,7 @@
+//bir isin gerçekleştirilmesi için birden fazla işin bir arada gereçkelenmesi gerekiyorsa
+//tüm bu isleri istemciye göstermeden başka-yerde toplamamı saglar
+
+
 public class FacadeMain {
     public static void main(String[] args) {
         //Film _------- start

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CreationalPatternsactory/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/CreationalPatternsactory/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/AbstractFactorySchool/AbstractFactorySchool.iml" filepath="$PROJECT_DIR$/HomeWork/AbstractFactorySchool/AbstractFactorySchool.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" />
@@ -26,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/EnummerationSingleton/EnummerationSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Facade/Facade.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Facade/FacadeLesson/FacadeLesson.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Facade/FacadeLesson/FacadeLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/FacadeSchoolLesson/FacadeSchoolLesson.iml" filepath="$PROJECT_DIR$/HomeWork/FacadeSchoolLesson/FacadeSchoolLesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod1/FactoryMethod1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod1/FactoryMethod1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod2/FactoryMethod2.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod2/FactoryMethod2.iml" />
@@ -38,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/Observer/ObserverDesign2/ObserverDesign2.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/Observer/ObserverDesign2/ObserverDesign2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton1/Singleton1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/SingletonEducative/SingletonEducative.iml" filepath="$PROJECT_DIR$/HomeWork/SingletonEducative/SingletonEducative.iml" />
       <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/StatePattern/StatePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/StrategyPatterns/StrategyPatterns.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/StrategyPatterns/StrategyPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" filepath="$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" />

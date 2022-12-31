@@ -1,3 +1,5 @@
+//tüm bilgilere tek tek yerine erişmek yerine tek bir yerden tüm bilgilere rahat ve doğruca erişebilmek
+
 public class CompositePatternMain1 {
     public static void main(String[] args) {
         Employee CEO = new Employee("John","CEO", 30000);

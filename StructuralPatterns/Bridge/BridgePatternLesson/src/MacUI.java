@@ -4,6 +4,6 @@ public class MacUI implements UI {
     @Override
     public String show(TemaUI temaUI) {
         this.temaUI=temaUI;
-        return temaUI.colorSettings();
+        return temaUI.colorSettings()+"Mac";
     }
 }

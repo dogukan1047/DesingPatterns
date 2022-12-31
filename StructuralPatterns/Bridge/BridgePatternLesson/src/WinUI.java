@@ -5,6 +5,6 @@ public class WinUI implements UI {
     public String show(TemaUI temaUI) {
         this.temaUI = temaUI;
 
-        return temaUI.colorSettings();
+        return temaUI.colorSettings()+"Win";
     }
 }

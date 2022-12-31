@@ -5,6 +5,6 @@ TemaUI temaUI;
     public String show(TemaUI temaUI) {
         this.temaUI=temaUI;
 
-        return temaUI.colorSettings();
+        return temaUI.colorSettings()+"Linux";
     }
 }
