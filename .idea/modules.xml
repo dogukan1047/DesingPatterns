@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" filepath="$PROJECT_DIR$/CreationalPatterns/AbstractFactorys/AbstractFactorys.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/AdapterLesson/AdapterLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/AdapterLessonTask/AdapterLessonTAsk.iml" filepath="$PROJECT_DIR$/HomeWork/AdapterLessonTask/AdapterLessonTAsk.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork/AdaptorWork/AdaptorWork.iml" filepath="$PROJECT_DIR$/HomeWork/AdaptorWork/AdaptorWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/BehaviorPatterns/BehaviorPatterns.iml" filepath="$PROJECT_DIR$/BehaviorPatterns/BehaviorPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Bridge/Bridge.iml" />
